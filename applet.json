@@ -1,0 +1,26 @@
+[
+    {
+        "Applet_No": "Applet 1 - Basic Events",
+        "Description": "This application contains basicS events in programming, allowing users to interact with simple actions",
+        "file": "applet1.html",
+        "Image": "https://imgs.search.brave.com/e1Wd-EdsJY_waQAq8l-u0ilG9f9lZC97d-cBhwja8vc/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9pbWcu/ZnJlZXBpay5jb20v/cHJlbWl1bS1waG90/by9jbGFzc2ljLWNh/ci13aXRoLXN1bnNl/dC1iYWNrZ3JvdW5k/LXJldHJvLXN0eWxl/LXRvbmVkLWltYWdl/XzgzMzEwNC0yOTM3/NC5qcGc_c2l6ZT02/MjYmZXh0PWpwZw"
+      },
+      {
+        "Applet_No": "Applet 2 - Leaflet Map",
+        "Description": "This application allows users to explore interactive maps using simple tools for zooming, panning, and adding markers.",
+        "file": "applet2.html",
+        "Image": "https://imgs.search.brave.com/e1Wd-EdsJY_waQAq8l-u0ilG9f9lZC97d-cBhwja8vc/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9pbWcu/ZnJlZXBpay5jb20v/cHJlbWl1bS1waG90/by9jbGFzc2ljLWNh/ci13aXRoLXN1bnNl/dC1iYWNrZ3JvdW5k/LXJldHJvLXN0eWxl/LXRvbmVkLWltYWdl/XzgzMzEwNC0yOTM3/NC5qcGc_c2l6ZT02/MjYmZXh0PWpwZw"
+      },
+      {
+        "Applet_No": "Applet 3 - Event Logger",
+        "Description": "This application helps users display on what happens when they click buttons, showing a simple log of their actions.",
+        "file": "applet3.html",
+        "Image": "https://imgs.search.brave.com/e1Wd-EdsJY_waQAq8l-u0ilG9f9lZC97d-cBhwja8vc/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9pbWcu/ZnJlZXBpay5jb20v/cHJlbWl1bS1waG90/by9jbGFzc2ljLWNh/ci13aXRoLXN1bnNl/dC1iYWNrZ3JvdW5k/LXJldHJvLXN0eWxl/LXRvbmVkLWltYWdl/XzgzMzEwNC0yOTM3/NC5qcGc_c2l6ZT02/MjYmZXh0PWpwZw"
+      },
+      {
+        "Applet_No": "Applet 4 - Dynamic Elements",
+        "Description": "This application allows users visualize the effects of button clicks for clear and interactive log of actions in real-time.",
+        "file": "applet4.html",
+        "Image": "https://imgs.search.brave.com/e1Wd-EdsJY_waQAq8l-u0ilG9f9lZC97d-cBhwja8vc/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9pbWcu/ZnJlZXBpay5jb20v/cHJlbWl1bS1waG90/by9jbGFzc2ljLWNh/ci13aXRoLXN1bnNl/dC1iYWNrZ3JvdW5k/LXJldHJvLXN0eWxl/LXRvbmVkLWltYWdl/XzgzMzEwNC0yOTM3/NC5qcGc_c2l6ZT02/MjYmZXh0PWpwZw"
+      }
+]
